@@ -1,9 +1,4 @@
-# Van Life
-
-A React application with React Router functionality.
-Implemented as part of the React Router course on Scrimba.com 
-
-## Getting Started
+# Getting Started
 Install the dependencies and run the project
 ```
 npm install
